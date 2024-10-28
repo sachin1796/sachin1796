@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2> I'm Sachin VIshwakarma, a passionate Full-Stack Developer specializing in MERN Stack.</h2>
+<h2> I'm Sachin Vishwakarma, a passionate Full-Stack Developer specializing in MERN Stack.</h2>
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
